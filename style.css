@@ -1,7 +1,30 @@
-.thumbnail{
-    width: 300px;
-  }
-.search-bar{
-    font-size: 40px;
-    margin-right: 10px;
-  }
+
+        .thumbnail{
+        width: 300px;
+        display: block;
+      }
+        .search-bar{
+        display: block;
+      }
+      .video1-title{
+        width: 300px;
+      }
+      .video1-stats, .video1-author {
+        width: 300px;
+      }
+      .video1{
+            width: 300px;
+            display: inline-block;
+      }
+      .video2-title{
+        width: 300px;
+      }
+      .video2-stats, .video2-author {
+        width: 300px;
+      }
+      .video2{
+            width: 300px;
+            display: inline-block;
+            vertical-align: top;
+            margin-left: 20px;
+      }
