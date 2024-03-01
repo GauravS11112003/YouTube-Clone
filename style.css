@@ -1,30 +1,50 @@
 
-        .thumbnail{
-        width: 300px;
+    
+    .search-bar{
         display: block;
       }
-        .search-bar{
+
+    .thumbnail{
+        width:100%;
         display: block;
+        
+    }
+
+    .video-title{
+        width: 100%;
       }
-      .video1-title{
-        width: 300px;
+    .video-stats, .video-author {
+        width: 100%;
       }
-      .video1-stats, .video1-author {
-        width: 300px;
+
+    .video-profile{
+        vertical-align: top;
+        width: 36px;
+        border-radius: 36px;
+        display: inline-block;
       }
-      .video1{
-            width: 300px;
-            display: inline-block;
+
+    .video{
+        display: inline-block;
+        width: 337.800px;
+        vertical-align: top;
       }
-      .video2-title{
-        width: 300px;
+
+    .channel-details{
+        display: block;
+
       }
-      .video2-stats, .video2-author {
-        width: 300px;
+
+    .video-image{
+        display: inline-block;
+        
       }
-      .video2{
-            width: 300px;
-            display: inline-block;
-            vertical-align: top;
-            margin-left: 20px;
+
+    .video-details{
+        display: inline-block;
+        width: 289.00px;
       }
+
+    
+
+     
