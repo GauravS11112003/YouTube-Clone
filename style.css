@@ -1,5 +1,9 @@
+     
+    body{
 
-    
+      font-family:'Roboto', arial;
+      
+    }
     .search-bar{
         display: block;
       }
@@ -11,6 +15,7 @@
     }
 
     .video-title{
+        margin-top: 0px;
         width: 100%;
       }
     .video-stats, .video-author {
@@ -18,6 +23,7 @@
       }
 
     .video-profile{
+        margin-top: 12px;
         vertical-align: top;
         width: 36px;
         border-radius: 36px;
