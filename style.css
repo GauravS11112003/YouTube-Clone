@@ -1,7 +1,7 @@
      
-    body{
+    p{
 
-      font-family:'Roboto', arial;
+      font-family: Roboto , arial;
       
     }
     .search-bar{
@@ -10,15 +10,18 @@
 
     .thumbnail{
         width:100%;
-        display: block;
+        display: inline-block;
+        
         
     }
 
     .video-title{
         margin-top: 0px;
         width: 100%;
+        
       }
     .video-stats, .video-author {
+      margin-top: 0px;
         width: 100%;
       }
 
@@ -28,6 +31,9 @@
         width: 36px;
         border-radius: 36px;
         display: inline-block;
+      }
+      .video-image{
+        display: block;
       }
 
     .video{
@@ -39,11 +45,6 @@
     .channel-details{
         display: block;
 
-      }
-
-    .video-image{
-        display: inline-block;
-        
       }
 
     .video-details{
